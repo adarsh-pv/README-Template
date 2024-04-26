@@ -1,5 +1,5 @@
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO --->
 <div align="center">
   <a href="https://github.com/jauharmuhammed/README-template">
     <img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/github-logo.svg" alt="Logo" width="80" height="80" border-radius="50%">
